@@ -16,4 +16,4 @@ handlers:
 - url: /.*
   script: auto
 
-name: my-app-service  # Replace with your desired service name
+name: My First Project  # Replace with your desired service name
