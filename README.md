@@ -1,1 +1,1 @@
-# ALPA-GC
+# ALPHA
